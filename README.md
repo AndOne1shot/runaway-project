@@ -10,7 +10,7 @@ runaway라는 웹 프로그램은 러닝을 취미로 하는 사람들이 자신
 
 <hr>
 
-### 트랙 게시판
+### -트랙 게시판
 ![image](https://github.com/user-attachments/assets/0981e30f-05ef-4710-ac60-7d12b2ee3d3d)
 위 이미지는 트랙 게시판으로 자신이 달린 기록,루트를 공유하고 다른 사람들이 이 루트를 보고 추천을 눌러 저장을 할 수 있습니다.
 ![image](https://github.com/user-attachments/assets/1b69f8c8-39f1-470d-99fe-7b28317f14fc)
@@ -18,7 +18,7 @@ runaway라는 웹 프로그램은 러닝을 취미로 하는 사람들이 자신
 
 <hr>
 
-### 메이트 게시판
+### -메이트 게시판
 ![image](https://github.com/user-attachments/assets/f46616c2-ace7-410d-8c92-23722fda856e)
 ![image](https://github.com/user-attachments/assets/78ff1dca-e6e5-47f7-bd9e-d3810867d341)
 
@@ -28,7 +28,7 @@ runaway라는 웹 프로그램은 러닝을 취미로 하는 사람들이 자신
 
 <hr>
 
-### 마이 페이지
+### -마이 페이지
 ![image](https://github.com/user-attachments/assets/8de0e88a-e773-4d51-848d-d8a94cf941a8)
 ![image](https://github.com/user-attachments/assets/6c51ae86-53d0-4c5f-b7af-ded097d9630f)
 
@@ -37,7 +37,7 @@ runaway라는 웹 프로그램은 러닝을 취미로 하는 사람들이 자신
 
 <hr>
 
-### 반응형
+### -반응형
 <img src="https://github.com/user-attachments/assets/bce5d65f-9749-42cc-a2f4-0a0028f8afbe" width="200px" height="400px">
 <img src="https://github.com/user-attachments/assets/bed0881a-9ec1-4e8a-ad6e-9b0db183314e" width="200px" height="400px">
 <img src="https://github.com/user-attachments/assets/8f2d9df7-8376-4c6d-94a7-aa3577ab5aea" width="200px" height="400px">
