@@ -43,7 +43,7 @@ runaway라는 웹 프로그램은 러닝을 취미로 하는 사람들이 자신
 <img src="https://github.com/user-attachments/assets/8f2d9df7-8376-4c6d-94a7-aa3577ab5aea" width="200px" height="400px">
 <img src="https://github.com/user-attachments/assets/6909047f-01fb-45d6-bae0-283c18697ff8" width="200px" height="400px">
 
-그리드, 플렉스 컨터이너를 활용해 모바일 화면에도 이용할 수 있게 구현했습니다.
+그리드, 플렉스 컨테이너를 활용해 모바일 화면에도 이용할 수 있게 구현했습니다.
 
 
 
