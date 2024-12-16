@@ -14,6 +14,7 @@ runaway라는 웹 프로그램은 러닝을 취미로 하는 사람들이 자신
 ![image](https://github.com/user-attachments/assets/0981e30f-05ef-4710-ac60-7d12b2ee3d3d)
 위 이미지는 트랙 게시판으로 자신이 달린 기록,루트를 공유하고 다른 사람들이 이 루트를 보고 추천을 눌러 저장을 할 수 있습니다.
 ![image](https://github.com/user-attachments/assets/1b69f8c8-39f1-470d-99fe-7b28317f14fc)
+
 또한 댓글 기능을 추가해 작성한 글에 대한 의견을 서로 나눌 수 있습니다.
 
 <hr>
