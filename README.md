@@ -36,8 +36,10 @@ runaway라는 웹 프로그램은 러닝을 취미로 하는 사람들이 자신
 <hr>
 
 ### -마이 페이지
-![image](https://github.com/user-attachments/assets/8de0e88a-e773-4d51-848d-d8a94cf941a8)
-![image](https://github.com/user-attachments/assets/6c51ae86-53d0-4c5f-b7af-ded097d9630f)
+![image](https://github.com/user-attachments/assets/a49f3a12-34da-40d6-915f-6103664617bd)
+
+![image](https://github.com/user-attachments/assets/5406c061-1f07-4091-8dd0-1b36e9e07068)
+
 
 알람은 마이페이지의 왼쪽 위 벨 아이콘 옆에 빨간색 점으로 알람이 왔다는 것을 알려주고 하단의 알람 게시판에서 누가 신청을 하고 취소 했는지 알 수 있습니다.
 이 글을 확인하면 빨간색 점은 사라지게 됩니다.
@@ -45,7 +47,8 @@ runaway라는 웹 프로그램은 러닝을 취미로 하는 사람들이 자신
 <hr>
 
 ### -반응형
-<img src="https://github.com/user-attachments/assets/bce5d65f-9749-42cc-a2f4-0a0028f8afbe" width="200px" height="400px">
+<img src="![KakaoTalk_20241230_144037648](https://github.com/user-attachments/assets/0db16a25-1b1b-4557-88c0-c1c563271302)
+" width="200px" height="400px">
 <img src="https://github.com/user-attachments/assets/bed0881a-9ec1-4e8a-ad6e-9b0db183314e" width="200px" height="400px">
 <img src="https://github.com/user-attachments/assets/8f2d9df7-8376-4c6d-94a7-aa3577ab5aea" width="200px" height="400px">
 <img src="https://github.com/user-attachments/assets/6909047f-01fb-45d6-bae0-283c18697ff8" width="200px" height="400px">
