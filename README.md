@@ -47,11 +47,10 @@ runaway라는 웹 프로그램은 러닝을 취미로 하는 사람들이 자신
 <hr>
 
 ### -반응형
-<img src="![KakaoTalk_20241230_144037648](https://github.com/user-attachments/assets/0db16a25-1b1b-4557-88c0-c1c563271302)
-" width="200px" height="400px">
-<img src="https://github.com/user-attachments/assets/bed0881a-9ec1-4e8a-ad6e-9b0db183314e" width="200px" height="400px">
-<img src="https://github.com/user-attachments/assets/8f2d9df7-8376-4c6d-94a7-aa3577ab5aea" width="200px" height="400px">
-<img src="https://github.com/user-attachments/assets/6909047f-01fb-45d6-bae0-283c18697ff8" width="200px" height="400px">
+<img src="https://github.com/user-attachments/assets/0db16a25-1b1b-4557-88c0-c1c563271302" width="200px" height="400px">
+<img src="https://github.com/user-attachments/assets/dda66fce-934b-4fc4-98a7-c88f69531596" width="200px" height="400px">
+<img src="https://github.com/user-attachments/assets/fda5472f-9fdb-495e-b7f4-0504215cb905" width="200px" height="400px">
+<img src="https://github.com/user-attachments/assets/90883687-014d-484b-a50c-dfdc5b0c974a" width="200px" height="400px">
 
 그리드, 플렉스 컨테이너를 활용해 모바일 화면에도 이용할 수 있게 구현했습니다.
 
