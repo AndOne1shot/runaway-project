@@ -4,24 +4,30 @@
 
 runaway라는 웹 프로그램은 러닝을 취미로 하는 사람들이 자신이 달리는 루트, 기록을 측정하고 사람들과 공유, 더 나아가 같이 달리는 사람들을 모집할 수 있는 웹사이트 입니다.
 
-![image](https://github.com/user-attachments/assets/adb5eab3-bdab-4769-afe6-81741389638e)
+![image](https://github.com/user-attachments/assets/a681d559-1adb-4f7c-a91f-876270e62098)
+
 위 이미지는 로그인 했을 때 메인 페이지로 각 사용자마다 달린 기록을 저장하는데 가장 많이 달린 사람 5명의 랭킹과
 추천수를 가장 많이 받은 루트 3개를 보여줍니다.
 
 <hr>
 
 ### -트랙 게시판
-![image](https://github.com/user-attachments/assets/0981e30f-05ef-4710-ac60-7d12b2ee3d3d)
+![image](https://github.com/user-attachments/assets/b21fffbb-108b-413a-aa6a-ec547d552487)
+
 위 이미지는 트랙 게시판으로 자신이 달린 기록,루트를 공유하고 다른 사람들이 이 루트를 보고 추천을 눌러 저장을 할 수 있습니다.
-![image](https://github.com/user-attachments/assets/1b69f8c8-39f1-470d-99fe-7b28317f14fc)
+![image](https://github.com/user-attachments/assets/74587f92-54db-4fc3-90c0-0eb58746e664)
+
 
 또한 댓글 기능을 추가해 작성한 글에 대한 의견을 서로 나눌 수 있습니다.
 
 <hr>
 
 ### -메이트 게시판
-![image](https://github.com/user-attachments/assets/f46616c2-ace7-410d-8c92-23722fda856e)
-![image](https://github.com/user-attachments/assets/78ff1dca-e6e5-47f7-bd9e-d3810867d341)
+![image](https://github.com/user-attachments/assets/ca22c09c-f95c-48e7-91fd-368b2a11db4b)
+
+![image](https://github.com/user-attachments/assets/f9fd1770-d42b-4359-979f-3e85e95004b3)
+
+
 
 
 다음은 메이트 게시판 입니다.
